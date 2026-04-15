@@ -1,17 +1,43 @@
-# Islamicraft
+# Islamicraft-Lite
 
-This resource pack changes up a few things in Minecraft, allowing you to have a more Islamic MC experience (Like making Jukebox Discs play the Quran instead)!
+Makes Minecraft (Including some mods) quite the bit more clearly Halal, removing any doubt that it would be Haram.
 
-## Changes
-WIP, but the changes are to be found at https://friedegg796.github.io/qurandiscs-modpage/islamiccraftchanges.html
+This includes changing things like Pork to be Truffles (Fun fact, Truffles are a fungus that pigs can actually sniff for!), and changing the Totem of Undying to, in the exact wording, a "Super High Quality Defibrillator."
 
-Audio for Jukebox Discs were gotten from https://www.mp3quran.net/eng
+It SHOULD have removed Music entirely, with some of the music being replaced with Nasheeds, and the Jukebox Discs either being WIP or having Quran.
 
+As well as this, it changes some paintings to be that of Mosques, instead of what they were before.
 
+Albeit, it doesn't, unlike the full version, remove the faces from all of the webs, items, and effects (where they have it), hence the addition of Lite.
+
+For a more Exhaustive list, I haven't finished the website yet so this is a WIP, will be finished inshaAllah.
+
+Audio for the Discs was gotten from https://www.mp3quran.net/eng
+
+## I have issue gerrr/hmm I wanna know something
+Make an [issue](https://github.com/friedegg796/Islamified-Twilight/issues), I'll check it inshaAllah.
+
+### Why?
+
+Ok so like free good deeds, cuz it prevents the entirity of the Twilight Forest from playing Music (To my knowledge), having a few reminders (if you can find them), and reconciling with the Muslims (No fighting over if Minecraft is Halal or not is what I intend with these packs)
+
+### (Insert thing here) isn't Haram!
+
+Just because the pack explodes it doesn't mean nessecarily it is Haram, but it may be something that is viewed as Haram (Or may have been changed to fit other changes).
+
+There are also differing opinions based on what would be considered Haram or not, I'm just trying to emcompass all of them (We're being safe and secure with this one!!!!).
+
+### Could I put your Resourcepack into MY modpack?
+Read the [License](https://github.com/friedegg796/Islamicraft-Lite?tab=License-1-ov-file#)
+
+### How do I install this...
+
+On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
+
+On Github you install the zip, unzip it, and then do the above.
 
 
 ## Credits
-
 
 In /assets/minecraft/textures/painting/
 For burning_skull.png:
@@ -70,4 +96,4 @@ Video was made into an OGG audio file
 
 Careful with the above video's channel, this specific video was fine but I fear there may be not-so-good content on there.
 
-Please note I do NOT CONDONE the above channels, I only took what was benefical from them.
+Please note I do NOT CONDONE the above people, I only took what was benefical from them.
