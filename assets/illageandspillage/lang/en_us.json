@@ -1,0 +1,56 @@
+{
+  "entity.illageandspillage.magispeller": "Bigbrainager",
+  "entity.illageandspillage.spiritcaller": "Hologrammer",
+  "entity.illageandspillage.mob_spirit": "Mob Hologram",
+  "entity.illageandspillage.illager_soul": "Illager Hologram",
+  "entity.illageandspillage.imp": "Firey Hologram",
+  "entity.illageandspillage.spirit_hand": "Hologram Hand",
+  "entity.illageandspillage.trick_or_treat": "Freakager Candy",
+ 
+  "item.illageandspillage.magispeller_spawn_egg": "Bigbrainager Spawn Egg",
+  "item.illageandspillage.spiritcaller_spawn_egg": "Hologrammer Spawn Egg",
+  "item.illageandspillage.totem_of_banishment": "Scary Vex Doll",
+  "item.illageandspillage.spellbound_book": "Holographic Book",
+  "item.illageandspillage.magi_disc": "Quran Disc",
+  "item.illageandspillage.magi_disc.desc": "Mishary Rashid Alafasy - Surah 91, Ash-Shams",
+  "item.illageandspillage.spiri_disc": "Quran Disc",
+  "item.illageandspillage.spiri_disc.desc": "Mishary Rashid Alafasy - Surah 82, Al-Infitar",
+  "item.illageandspillage.freaky_disc": "Quran Disc",
+  "item.illageandspillage.freaky_disc.desc": "Mohamed Siddiq al-Minshawi - Surah 73, Al-Muzzamil",
+
+
+  "effect.illageandspillage.misconduction": "Hologramination",
+ 
+  "subtitles.entity.spiritcaller.wings": "Hologrammer's wings flap",
+  "subtitles.entity.spiritcaller.ambient": "Hologrammer titters",
+  "subtitles.entity.spiritcaller.celebrate": "Hologrammer cheers",
+  "subtitles.entity.spiritcaller.hurt": "Hologrammer hurts",
+  "subtitles.entity.spiritcaller.death": "Hologrammer dies",
+  "subtitles.entity.spiritcaller.intro": "Hologrammer reads",
+  "subtitles.entity.spiritcaller.steal_spirits": "Hologrammer pulls lifeforce",
+  "subtitles.entity.spiritcaller.spirit_absorb": "Mob Hologram absorbed",
+  "subtitles.entity.spiritcaller.spirit_swarm": "Hologrammer calls for holograms",
+  "subtitles.entity.spiritcaller.soul_scream": "Hologram screams",
+  "subtitles.entity.spiritcaller.imp_laugh": "Firey Hologram laughs",
+  "subtitles.entity.spiritcaller.death_animation": "Hologrammer fades away",
+  "subtitles.entity.spiritcaller.descent": "Hologrammer descends",
+  "subtitles.entity.spiritcaller.imprise": "Hologrammer inflames Holograms",
+  "subtitles.entity.spiritcaller.clap": "Hologrammer claps",
+  "subtitles.entity.spiritcaller.spirit_hands": "Hologrammer summons hands",
+  "subtitles.entity.spiritcaller.spirithand_warn": "Hologram Hand attacks",
+  "subtitles.entity.spiritcaller.charge_laser": "Hologrammer prepares laser",
+  "subtitles.entity.spiritcaller.laser": "Hologram Laser blasts",
+  "subtitles.entity.spiritcaller.anticheese": "Hologrammer is unamused",
+  "subtitles.entity.mob_spirit.hurt": "Mob Hologram hurts",
+  "subtitles.entity.mob_spirit.death": "Mob Hologram dies",
+  "subtitles.entity.freakager.trickortreat_destroy": "Freakager Candy destroyed",
+  "subtitles.entity.freakager.trickortreat": "Freakager prepares Freakager Candies",
+  "subtitles.item.totem_of_banishment.banish": "Vexes scared away",
+  "subtitles.item.spellbound_book.use": "Hologramming",
+
+
+  "advancements.illageandspillage.magi_advancement_desc" : "Defeat the Bigbrainager",
+  "advancements.illageandspillage.spiri_advancement" : "Entire Hologramination",
+  "advancements.illageandspillage.spiri_advancement_desc" : "Defeat the Hologrammer"
+
+}
