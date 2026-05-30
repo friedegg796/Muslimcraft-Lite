@@ -19,18 +19,9 @@
   "item.minecraft.music_disc_chirp": "Quran Disc",
   "item.minecraft.music_disc_chirp.desc": "Shaik Abu Bakr Al Shatri - Surah 75, Al-Qiyamah",
   "jukebox_song.minecraft.chirp":"Shaik Abu Bakr Al Shatri - Surah 75, Al-Qiyamah",
-  "item.minecraft.music_disc_creator": "Quran Disc",
-  "item.minecraft.music_disc_creator.desc": "Mahmoud Khalil Al-Hussary - Surah 90, Al-Balad",
-  "jukebox_song.minecraft.creator":"Mahmoud Khalil Al-Hussary - Surah 90, Al-Balad",
-  "item.minecraft.music_disc_creator_music_box": "Quran Disc",
-  "item.minecraft.music_disc_creator_music_box.desc": "Sa`ud ash-Shuraym - Surah 82, Al-Infitar",
-  "jukebox_song.minecraft.creator_music_box":"Sa`ud ash-Shuraym - Surah 82, Al-Infitar",
   "item.minecraft.music_disc_far": "Quran Disc",
   "item.minecraft.music_disc_far.desc": "Sa`ud ash-Shuraym - Surah 73, Al-Muzzamil",
   "jukebox_song.minecraft.far": "Sa`ud ash-Shuraym - Surah 73, Al-Muzzamil",
-  "item.minecraft.music_disc_lava_chicken": "Quran Disc",
-  "item.minecraft.music_disc_lava_chicken.desc": "Sa`ud ash-Shuraym - Surah 80, Abasa",
-  "jukebox_song.minecraft.lava_chicken": "Sa`ud ash-Shuraym - Surah 80, Abasa",
   "item.minecraft.music_disc_mall": "Quran Disc",
   "item.minecraft.music_disc_mall.desc": "AbdulBaset AbdulSamad - Surah 89, Al-Fajr",
   "jukebox_song.minecraft.mall": "AbdulBaset AbdulSamad - Surah 89, Al-Fajr",
@@ -43,21 +34,12 @@
   "item.minecraft.music_disc_pigstep": "Quran Disc",
   "item.minecraft.music_disc_pigstep.desc": "Sa`ud ash-Shuraym - Surah 62, Al-Jummah",
   "jukebox_song.minecraft.pigstep": "Sa`ud ash-Shuraym - Surah 62, Al-Jummah",
-  "item.minecraft.music_disc_precipice": "Quran Disc",
-  "item.minecraft.music_disc_precipice.desc": "Maher Al Meaqli - Surah 76, Al-Insan",
-  "jukebox_song.minecraft.precipice": "Maher Al Meaqli - Surah 76, Al-Insan",
-  "item.minecraft.music_disc_relic": "Quran Disc",
-  "item.minecraft.music_disc_relic.desc": "Shaik Abu Bakr Al Shatri - Surah 63, Al-Munafiqun",
-  "jukebox_song.minecraft.relic": "Shaik Abu Bakr Al Shatri - Surah 63, Al-Munafiqun",
   "item.minecraft.music_disc_stal": "Quran Disc",
   "item.minecraft.music_disc_stal.desc": "AbdulBaset AbdulSamad - Surah 81, At-Tawkir",
   "jukebox_song.minecraft.stal": "AbdulBaset AbdulSamad - Surah 81, At-Tawkir",
   "item.minecraft.music_disc_strad": "Quran Disc",
   "item.minecraft.music_disc_strad.desc": "Mahmoud Khalil Al-Hussary - Surah 98, Al-Bayinah",
   "jukebox_song.minecraft.strad": "Mahmoud Khalil Al-Hussary - Surah 98, Al-Bayinah",
-  "item.minecraft.music_disc_tears": "Quran Disc",
-  "item.minecraft.music_disc_tears.desc": "Abdul Rahman Al-Sudais - Surah 83, Al-Muntaffin",
-  "jukebox_song.minecraft.tears": "Abdul Rahman Al-Sudais - Surah 83, Al-Muntaffin",
   "item.minecraft.music_disc_wait": "Quran Disc",
   "item.minecraft.music_disc_wait.desc": "Mousa Bilal - Surah 64, At-Taghabun",
   "jukebox_song.minecraft.wait": "Mousa Bilal - Surah 64, At-Taghabun",
@@ -73,7 +55,6 @@
   "advancements.adventure.play_jukebox_in_meadows.description": "Make the meadows more righteous with the Quran!",
   "advancements.adventure.play_jukebox_in_meadows.title": "Sound of Quran",
   "advancements.husbandry.allay_deliver_cake_to_note_block.title": "Cake Time!",
-  "advancements.adventure.revaulting.description": "Unlock a Daring Vault with a Daring Trial Key",
   "advancements.nether.distract_piglin.description": "Distract Piglins with Pyrite",
   "advancements.story.cure_zombie_villager.title": "How did this work?",
   "advancements.story.cure_zombie_villager.description": "Somehow Weaken (Apply the Weakness effect to) and then use a pyrite apple to cure a Monster Villager",
@@ -86,16 +67,13 @@
   
   
   
-  "effect.minecraft.bad_omen": "Watched",
-  "effect.minecraft.raid_omen": "Anger of the Pillagers",
-  "effect.minecraft.trial_omen": "Daring",
+  "effect.minecraft.bad_omen": "Anger of the Pillagers",
   "effect.minecraft.luck": "Good Omen",
   "effect.minecraft.unluck": "Ick",
 
 
   "subtitles.event.mob_effect.bad_omen": "You feel a sense of being Watched",
-  "subtitles.event.mob_effect.trial_omen": "Trial accepts your challenge",
-  "subtitles.event.raid.horn": "WIP but this is a horn",
+  "subtitles.event.raid.horn": "Illagers get ready",
   "subtitles.item.armor.equip_gold": "Pyrite armor clinks",
   "subtitles.entity.wither_skeleton.ambient": "Withered Monster rattles",
   "subtitles.entity.wither_skeleton.death": "Withered Monster dies",
@@ -145,18 +123,6 @@
   "subtitles.entity.zombie_villager.cure": "Green Monster Villager snuffles",
   "subtitles.entity.zombie_villager.death": "Green Monster Villager dies",
   "subtitles.entity.zombie_villager.hurt": "Green Monster Villager hurts",
-  "subtitles.entity.zombie_nautilus.ambient": "Monsterfied Nautilus burbles",
-  "subtitles.entity.zombie_nautilus.ambient_land": "Monsterfied Nautilus burbles",
-  "subtitles.entity.zombie_nautilus.dash": "Monsterfied Nautilus jets",
-  "subtitles.entity.zombie_nautilus.dash_land": "Monsterfied Nautilus jets",
-  "subtitles.entity.zombie_nautilus.dash_ready": "Monsterfied Nautilus recovers",
-  "subtitles.entity.zombie_nautilus.dash_ready_land": "Monsterfied Nautilus recovers",
-  "subtitles.entity.zombie_nautilus.death": "Monsterfied Nautilus dies",
-  "subtitles.entity.zombie_nautilus.death_land": "Monsterfied Nautilus dies",
-  "subtitles.entity.zombie_nautilus.eat": "Monsterfied Nautilus eats",
-  "subtitles.entity.zombie_nautilus.hurt": "Monsterfied Nautilus hurts",
-  "subtitles.entity.zombie_nautilus.hurt_land": "Monsterfied Nautilus hurts",
-  "subtitles.entity.zombie_nautilus.swim": "Monsterfied Nautilus swims",
   "subtitles.entity.elder_guardian.curse": "Elder Guardian flexes his skill on you making you scared",
   
   
@@ -176,7 +142,6 @@
   "item.minecraft.golden_pickaxe": "Pyrite Pickaxe",
   "item.minecraft.golden_shovel": "Pyrite Shovel",
   "item.minecraft.golden_sword": "Pyrite Sword",
-  "item.minecraft.golden_spear": "Pyrite Spear",
   "item.minecraft.golden_apple": "Pyrite Apple",
   "item.minecraft.enchanted_golden_apple": "Knowledgable Pyrite Apple",
   "item.minecraft.zombie_villager_spawn_egg": "Monster Villager Spawn Egg",
@@ -237,5 +202,32 @@
   "enchantment.minecraft.vanishing_curse": "Vanishing",
 
 
-  "container.spectatorCantOpen": "Unable to open. Loot not generated yet. Have Sabr (Patience)."
+  "container.spectatorCantOpen": "Unable to open. Loot not generated yet. Have Sabr (Patience).",
+
+  "container.grindstone_title": "Repair & Disenchant",
+
+  "container.repair.cost": "Enknowledgement Cost: %1$s",
+
+  "options.glintSpeed.tooltip": "Controls how fast the visual glint shimmers across enknowledged items.",
+  "options.glintStrength.tooltip": "Controls how transparent the visual glint is on enknowledged items.",
+
+   "stat.minecraft.enchant_item": "Items Enknowledged",
+
+   "subtitles.block.enchantment_table.use": "Enknowledging Table used",
+
+   "subtitles.chiseled_bookshelf.insert_enchanted": "Lesser Book of Knowledge placed",
+
+   "subtitles.chiseled_bookshelf.take_enchanted": "Lesser Book of Knowledge taken",
+  
+
+  "container.enchant.level.many": "%s Enknowledgement Levels",
+  "container.enchant.level.one": "1 Enknowledgement Level",
+
+  "container.enchant": "Enknowledge",
+
+  "commands.enchant.failed": "Nothing changed. Targets either have no item in their hands or the enknowledgement could not be applied",
+  "commands.enchant.failed.incompatible": "%s cannot support that enknowledgement",
+  "commands.enchant.failed.level": "%s is higher than the maximum level of %s supported by that enknowledgement",
+  "commands.enchant.success.multiple": "Applied enknowledgement %s to %s entities",
+  "commands.enchant.success.single": "Applied enknowledgement %s to %s's item"
   }
