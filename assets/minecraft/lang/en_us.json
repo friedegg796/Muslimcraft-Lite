@@ -95,12 +95,15 @@
 
   "subtitles.event.mob_effect.bad_omen": "You feel a sense of being Watched",
   "subtitles.event.mob_effect.trial_omen": "Trial accepts your challenge",
-  "subtitles.event.raid.horn": "Pillagers get ready",
+  "subtitles.event.raid.horn": "Illagers get ready",
   "subtitles.item.armor.equip_gold": "Pyrite armor clinks",
   "subtitles.entity.wither_skeleton.ambient": "Withered Monster rattles",
   "subtitles.entity.wither_skeleton.death": "Withered Monster dies",
   "subtitles.entity.wither_skeleton.hurt": "Withered Monster hurts",
   "subtitles.item.totem.use": "Super High Quality Defibrillator activates",
+  "subtitles.block.enchantment_table.use": "Enknowledging Table used",
+  "subtitles.chiseled_bookshelf.insert_enchanted": "Lesser Book of Knowledge placed",
+  "subtitles.chiseled_bookshelf.take_enchanted": "Lesser Book of Knowledge taken",
   "subtitles.entity.zoglin.ambient": "Monsterfied Hoglin growls",
   "subtitles.entity.zoglin.angry": "Monsterfied Hoglin growls angrily",
   "subtitles.entity.zoglin.attack": "Monsterfied Hoglin attacks",
@@ -236,6 +239,21 @@
   "enchantment.minecraft.luck_of_the_sea": "Treasure Finding",
   "enchantment.minecraft.vanishing_curse": "Vanishing",
 
+  "options.glintSpeed.tooltip": "Controls how fast the visual glint shimmers across enknowledged items.",
+  "options.glintStrength.tooltip": "Controls how transparent the visual glint is on enknowledged items.",
 
-  "container.spectatorCantOpen": "Unable to open. Loot not generated yet. Have Sabr (Patience)."
+  "stat.minecraft.enchant_item": "Items Enknowledged",
+  
+  "container.spectatorCantOpen": "Unable to open. Loot not generated yet. Have Sabr (Patience).",
+  "container.grindstone_title": "Repair & Disenknowledge",
+  "container.repair.cost": "Enknowledgement Cost: %1$s",
+  "container.enchant.level.many": "%s Enknowledgement Levels",
+  "container.enchant.level.one": "1 Enknowledgement Level",
+  "container.enchant": "Enknowledge",
+
+  "commands.enchant.failed": "Nothing changed. Targets either have no item in their hands or the enknowledgement could not be applied",
+  "commands.enchant.failed.incompatible": "%s cannot support that enknowledgement",
+  "commands.enchant.failed.level": "%s is higher than the maximum level of %s supported by that enknowledgement",
+  "commands.enchant.success.multiple": "Applied enknowledgement %s to %s entities",
+  "commands.enchant.success.single": "Applied enknowledgement %s to %s's item"
   }
