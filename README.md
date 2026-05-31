@@ -46,6 +46,9 @@ Or look for the named zip file in [releases](https://github.com/friedegg796/Musl
 ## Credits
 
 ### Textures
+<details>
+<summary>Textures</summary>
+
 In /assets/minecraft/textures/painting/
 
 For burning_skull.png:
@@ -206,7 +209,11 @@ DayakSibiriak in the Public Domain, Keramat Kuno mosque, Kampung Kajanan, Singar
 For finding.png and pigscene.png: 
 Public Domain
 
-### Audio
+</details>
+
+<details>
+<summary> Audio </summary>
+
 
 Everything in assets/minecraft/sounds/music/game/creative:
 Music Provided By NoCopyrightNasheeds
@@ -232,6 +239,8 @@ Careful with the above video's channel, this specific video was fine but I fear 
 
 Audio for the Discs:
 https://www.mp3quran.net/eng with it itsself saying "Copyrights: All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the websites"
+
+</details>
 
 #### Disclaimer
 
