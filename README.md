@@ -78,6 +78,131 @@ Erik Albers in the Public Domain, Dome of Jamh Mosque, Yazd, Iran
 backyard.png:
 Rayhana Alhour in the Public Domain, مسجد قبة الصخرة في القدس
 
+bust.png:
+Plugwash~commonswiki in the Public Domain, Banda Aceh's Grand Mosque, Indonesia
+
+cavebird.png:
+
+Grenavitar in the Public Domain, Central London Mosque in London
+
+tides.png and pairie_ride:
+Houss 2020 in the Public Domain, Great Mosque of Khniss
+
+wanderer.png:
+Ettounsi21 in the Public Domain, El RAHMEN Mosque - Djerba
+
+sunflowers.png:
+
+Deepak-nsk in the Public Domain, Kapitan Keling Mosque at night
+
+sea.png:
+
+Ettounsi21 in the Public Domain, IBN ELABBAS Mosque Wudu room
+
+unpacked.png:
+
+SerChevalerie in the Public Domain, Masjid-e-Noor, Zuarinagar
+
+pointer.png:
+
+Dokumentasi Cirebon in the Public Domain, Masjid Agung Sumber Cirebon
+
+donkey_kong.png:
+
+TheHadiRahim in the Public Domain, Wide shot of the Green Dome at The Prophet (Sallahu Alayi Wassalam)'s Mosque (Al Masjid-e-Nabawi)
+
+fern.png:
+
+Houss 2020 in the Public Domain, Mosquée CASTILIA
+
+orb.png:
+
+Houss 2020 in the Public Domain, Mosquée EL FATH - Tozeur
+
+bouqet.png:
+
+Ettounsi21 in the Public Domain, ELKATEB Mosqie - Mahboubin Djerba
+
+cotan.png:
+
+Houss 2020 in the Public Domain, Mosquée Ibn Abass-Maammer - Djerba Midoun
+
+endboss.png:
+
+Houss 2020 in the Public Domain, AL TAWFIQ MOSQUE (Monastir)
+
+graham.png:
+
+Houss 2020 in the Public Domain, AL IKHLAS MOSQUE
+
+lowmist.png
+
+Ettounsi21 in the Public Domain, OULED HLEL Mosque
+
+changing.png
+
+Ettounsi21 in the Public Domain, KHALED IBN EL WALID Mosque
+
+passage.png
+
+Houss 2020 in the Public Domain, Al-Rahma Mosque (Sidi Ali Ben Aoun)
+
+fighters.png:
+
+Mirlim in the Public Domain, Masjid Kampung Bersia Lama
+
+match.png:
+
+Houss 2020 in the Public Domain, Mosquée TAQUA ALLAH
+
+void.png
+
+Addjimedu in the Public Domain, ILISAN CENTRAL MOSQUE
+
+baroque.png:
+
+Michael in the Public Domain, Pangkor Island Mosque
+
+pool.png
+
+Mostafameraji in the Public Domain, Mosque Soleyman
+
+courbet.png
+
+Addjimedu in the Public Domain, ITAMAPAKO CENTRAL MOSQUE
+
+sunset.png
+
+Houss 2020 in the Public Domain, AL NOUR MOSQUE
+
+kebab.png
+Houss 2020 in the Public Domain, Mosquée Sidi Abdelkader Gabés 
+
+aztec.png
+Houss 2020 in the Public Domain, Mosquée Hadher Bach
+
+alban.png:
+Emin Tarahija in the Public Domain, Ensar džamija
+
+aztec2.png:
+
+Houss 2020 in the Public Domain, Mosquée TAQUA ALLAH- Tozeur
+
+bomb.png:
+Houss 2020 in the Public Domain, Mosquée Hadher Bach interior
+
+plant.png:
+Houss 2020 in the Public Domain, Mosquée Al Jadid - Oualegh Djerba
+
+wasteland.png:
+
+Houss 2020 in the Public Domain, Mosquée Al Rahmen bookshelf - Midoun
+
+dennis.png:
+
+DayakSibiriak in the Public Domain, Keramat Kuno mosque, Kampung Kajanan, Singaraja, Bali (estbl. c. 1645).
+
+
 For finding.png and pigscene.png: 
 Public Domain
 
@@ -108,8 +233,11 @@ Careful with the above video's channel, this specific video was fine but I fear 
 Audio for the Discs:
 https://www.mp3quran.net/eng with it itsself saying "Copyrights: All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the websites"
 
-Please note I do NOT CONDONE the credited, I only took what was benefical from them; I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.
-
 #### Disclaimer
+
+
+I do NOT CONDONE the credited, I only took what was benefical from them; I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.
+
+And although some images may be taken from the Public Domain, their modified versions are not in the Public Domain.
 
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
