@@ -44,15 +44,12 @@ Or look for the named zip file in [releases](https://github.com/friedegg796/Musl
 
 
 ## Credits
-
-### Textures
+<details>
+<summary>Textures</summary>
 In /assets/minecraft/textures/painting/
 
 For burning_skull.png:
 Nikeman916 in the Public Domain, Masjid Al-Aqsa picture.
-
-For pond.png:
-omar8000@gmail.com Gave permission.
 
 For skeleton.png:
 Jahfarov Muhammadnur in the Public Domain, Masjid-al-Haram
@@ -63,45 +60,21 @@ Bdx in the Public Domain, İskenderun Nihal Atakaş Mosque
 for skull_and_roses.png:
 Keira.alfatih in the Public Domain, Masjid Apung Pagatan
 
-for humble.png:
-ItsAsyl in the Public Domain,The Grand Mosque named after Seyitjan-Qari Esjanuly
-
-owlemons.png:
-Spear in the Public Domain, Salama Mosque at Basateen
-
 stage.png:
 Karelj in the Public Domain, Abd Al-Mun'im Riyad Mosque
 
 creebet.png:
 Erik Albers in the Public Domain, Dome of Jamh Mosque, Yazd, Iran
 
-backyard.png:
-Rayhana Alhour in the Public Domain, مسجد قبة الصخرة في القدس
-
 bust.png:
 Plugwash~commonswiki in the Public Domain, Banda Aceh's Grand Mosque, Indonesia
-
-cavebird.png:
-
-Grenavitar in the Public Domain, Central London Mosque in London
-
-tides.png and pairie_ride:
-Houss 2020 in the Public Domain, Great Mosque of Khniss
 
 wanderer.png:
 Ettounsi21 in the Public Domain, El RAHMEN Mosque - Djerba
 
-sunflowers.png:
-
-Deepak-nsk in the Public Domain, Kapitan Keling Mosque at night
-
 sea.png:
 
 Ettounsi21 in the Public Domain, IBN ELABBAS Mosque Wudu room
-
-unpacked.png:
-
-SerChevalerie in the Public Domain, Masjid-e-Noor, Zuarinagar
 
 pointer.png:
 
@@ -111,41 +84,9 @@ donkey_kong.png:
 
 TheHadiRahim in the Public Domain, Wide shot of the Green Dome at The Prophet (Sallahu Alayi Wassalam)'s Mosque (Al Masjid-e-Nabawi)
 
-fern.png:
-
-Houss 2020 in the Public Domain, Mosquée CASTILIA
-
-orb.png:
-
-Houss 2020 in the Public Domain, Mosquée EL FATH - Tozeur
-
-bouqet.png:
-
-Ettounsi21 in the Public Domain, ELKATEB Mosqie - Mahboubin Djerba
-
-cotan.png:
-
-Houss 2020 in the Public Domain, Mosquée Ibn Abass-Maammer - Djerba Midoun
-
-endboss.png:
-
-Houss 2020 in the Public Domain, AL TAWFIQ MOSQUE (Monastir)
-
 graham.png:
 
 Houss 2020 in the Public Domain, AL IKHLAS MOSQUE
-
-lowmist.png
-
-Ettounsi21 in the Public Domain, OULED HLEL Mosque
-
-changing.png
-
-Ettounsi21 in the Public Domain, KHALED IBN EL WALID Mosque
-
-passage.png
-
-Houss 2020 in the Public Domain, Al-Rahma Mosque (Sidi Ali Ben Aoun)
 
 fighters.png:
 
@@ -155,33 +96,32 @@ match.png:
 
 Houss 2020 in the Public Domain, Mosquée TAQUA ALLAH
 
-void.png
+void.png:
 
 Addjimedu in the Public Domain, ILISAN CENTRAL MOSQUE
 
-baroque.png:
-
-Michael in the Public Domain, Pangkor Island Mosque
-
-pool.png
+pool.png:
 
 Mostafameraji in the Public Domain, Mosque Soleyman
 
-courbet.png
+courbet.png:
 
 Addjimedu in the Public Domain, ITAMAPAKO CENTRAL MOSQUE
 
-sunset.png
+sunset.png:
 
 Houss 2020 in the Public Domain, AL NOUR MOSQUE
 
-kebab.png
+kebab.png:
+
 Houss 2020 in the Public Domain, Mosquée Sidi Abdelkader Gabés 
 
-aztec.png
+aztec.png:
+
 Houss 2020 in the Public Domain, Mosquée Hadher Bach
 
 alban.png:
+
 Emin Tarahija in the Public Domain, Ensar džamija
 
 aztec2.png:
@@ -198,15 +138,14 @@ wasteland.png:
 
 Houss 2020 in the Public Domain, Mosquée Al Rahmen bookshelf - Midoun
 
-dennis.png:
-
-DayakSibiriak in the Public Domain, Keramat Kuno mosque, Kampung Kajanan, Singaraja, Bali (estbl. c. 1645).
-
 
 For finding.png and pigscene.png: 
 Public Domain
 
-### Audio
+</details>
+
+<details>
+<summary>Audio</summary>
 
 Everything in assets/minecraft/sounds/music/game/creative:
 Music Provided By NoCopyrightNasheeds
@@ -232,6 +171,8 @@ Careful with the above video's channel, this specific video was fine but I fear 
 
 Audio for the Discs:
 https://www.mp3quran.net/eng with it itsself saying "Copyrights: All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the websites"
+
+</details>
 
 #### Disclaimer
 
