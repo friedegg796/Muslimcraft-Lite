@@ -18,6 +18,8 @@ Albeit, it doesn't, unlike the full version, remove the faces from all of the we
 
 For a more Exhaustive list, I haven't finished the website yet so this is a WIP, will be finished inshaAllah.
 
+If you wanna see more, join the [Discord!](https://discord.gg/qwmk6gRqmH)
+
 
 ## Questions/Suggestions/Problems
 
