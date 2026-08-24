@@ -34,7 +34,7 @@ Read the [License](https://github.com/friedegg796/Muslimcraft-Lite?tab=License-1
 
 If on Modrinth, read their TOS as well.
 
-### How do I install...
+### Installation
 
 On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
