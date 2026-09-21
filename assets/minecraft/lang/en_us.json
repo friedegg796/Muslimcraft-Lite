@@ -79,7 +79,7 @@
   "advancements.story.cure_zombie_villager.description": "Somehow Weaken (Apply the Weakness effect to) and then use a pyrite apple to cure a Monster Villager",
   "advancements.nether.get_wither_skull.description": "Obtain a Withered Monster's skull",
   "advancements.nether.get_wither_skull.title": "Spooky...",
-  "advancements.adventure.totem_of_undying.description": "Use a Super High Quality Defibrillator to save yourself",
+  "advancements.adventure.totem_of_undying.description": "Use an AED to save yourself",
   "advancements.story.enchant_item.title": "Knowledge of the ages",
   "advancements.story.enchant_item.description": "Enlighten an item with knowledge of a time long forgotten at a Knowledge Table",
   "advancements.adventure.throw_trident.description": "Throw a Pitchfork of the Sea at something. Note: Throwing away your only weapon is not a good idea.",
@@ -100,7 +100,7 @@
   "subtitles.entity.wither_skeleton.ambient": "Withered Monster rattles",
   "subtitles.entity.wither_skeleton.death": "Withered Monster dies",
   "subtitles.entity.wither_skeleton.hurt": "Withered Monster hurts",
-  "subtitles.item.totem.use": "Super High Quality Defibrillator activates",
+  "subtitles.item.totem.use": "AED activates",
   "subtitles.block.enchantment_table.use": "Enknowledging Table used",
   "subtitles.chiseled_bookshelf.insert_enchanted": "Lesser Book of Knowledge placed",
   "subtitles.chiseled_bookshelf.take_enchanted": "Lesser Book of Knowledge taken",
@@ -195,7 +195,7 @@
   "item.minecraft.cooked_porkchop": "Cooked Truffle",
   "item.minecraft.experience_bottle": "Bottle o' Exp",
   "item.minecraft.enchanted_book": "Lesser Book of Knowledge",
-  "item.minecraft.totem_of_undying": "Super High Quality Defibrillator",
+  "item.minecraft.totem_of_undying": "AED",
   "item.minecraft.trident": "Pitchfork of the Sea",
 
 
