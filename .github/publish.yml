@@ -12,12 +12,8 @@ jobs:
           # files: build/libs/fabric/!(*-@(dev|sources|javadoc)).jar
 
           # Only include this section if you wish to publish your assets to Modrinth.
-          modrinth-id: AANobbMI
+          modrinth-id: AvS81bGf
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-
-          # Only include this section if you wish to publish your assets to CurseForge.
-          curseforge-id: 394468
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
           # Only include this section if you wish to publish your assets to GitHub.
           github-token: ${{ secrets.GITHUB_TOKEN }}
