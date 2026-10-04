@@ -8,13 +8,13 @@ _This image has an affiliate link, aka I can get a commission (MONEY for me at n
 
 Makes Minecraft clearly Halal, removing any doubt that it would be Haram.
 
-This includes changing things like Pork to be Truffles (Fun fact, Truffles are a fungus that pigs can actually sniff for in real life!), and changing the Totem of Undying to, in the exact wording, an AED or Automated External Defibrillator.
+This includes changing things like Pork to be Truffles (Truffles are a fungus that pigs can actually sniff for in real life!), and changing the Totem of Undying to an AED or Automated External Defibrillator (Medical Device).
 
 It SHOULD have removed Music entirely, with some of the music being replaced with Nasheeds, and the Jukebox Discs having Quran instead.
 
-As well as this, it changes some paintings to be that of Mosques, instead of what they were before.
+As well as this, it changes some paintings to be Mosques.
 
-Albeit, it doesn't, unlike the full version, remove the faces from all of the webs, items, and effects (where they have it).
+It doesn't, unlike the full version, remove the faces from all of the webs, items, and effects (where they have it).
 
 For a more Exhaustive list, I haven't finished the website yet so this is a WIP, will be finished inshaAllah.
 
