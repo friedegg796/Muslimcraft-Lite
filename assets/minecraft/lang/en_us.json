@@ -64,6 +64,9 @@
   "item.minecraft.music_disc_ward": "Quran Disc",
   "item.minecraft.music_disc_ward.desc": "Maher Al Meaqli - Surah 61, As-Saff",
   "jukebox_song.minecraft.ward": "Maher Al Meaqli - Surah 61, As-Saff",
+  "item.minecraft.music_disc_bounce": "Silence Disc",
+  "item.minecraft.music_disc_bounce.desc": "Silence",
+  "jukebox_song.minecraft.bounce": "Silence",
 
   "menu.multiplayer": "Multiplayer (Speak good or be silent!)",
   "menu.singleplayer": "Singleplayer (Make time for Salah!)",
